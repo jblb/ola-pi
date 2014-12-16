@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = lun. 27 oct. 2014 23:26:47 CET
+
+BeginCmp
+TimeStamp = /544EC586;
+Reference = IC1;
+ValeurCmp = 6N136;
+IdModule  = DIP8;
+EndCmp
+
+BeginCmp
+TimeStamp = /544EC595;
+Reference = IC2;
+ValeurCmp = 6N136;
+IdModule  = DIP8;
+EndCmp
+
+BeginCmp
+TimeStamp = /544EC568;
+Reference = IC3;
+ValeurCmp = 6N136;
+IdModule  = DIP8;
+EndCmp
+
+BeginCmp
+TimeStamp = /544EC577;
+Reference = IC4;
+ValeurCmp = 6N136;
+IdModule  = DIP8;
+EndCmp
+
+BeginCmp
+TimeStamp = /544EC51A;
+Reference = U1;
+ValeurCmp = LM339;
+IdModule  = DIP-14__300_ELL;
+EndCmp
+
+EndListe
